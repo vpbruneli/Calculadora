@@ -26,7 +26,7 @@ Este projeto consiste em uma calculadora simples desenvolvida em JavaScript, jun
 
 1. **Clone o repositório:**
    ```bash
-   git clone REPO DE VOCES
+   git clone https://github.com/vpbruneli/Calculadora.git
    ```
 2. **Instale as dependências:**
    ```bash
